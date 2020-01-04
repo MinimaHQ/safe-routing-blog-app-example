@@ -1,0 +1,7 @@
+{
+  "workspaces": [
+    "01-single-type",
+    "02-multiple-types"
+  ],
+  "private": true
+}

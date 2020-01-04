@@ -1,0 +1,17 @@
+{
+  "name": "safe-routing-blog-app-example--01-single-type",
+  "sources": [
+    { "dir": "src", "subdirs": true }
+  ],
+  "bs-dependencies": ["reason-react"],
+  "refmt": 3,
+  "reason": {
+    "react-jsx": 3
+  },
+  "bsc-flags": ["-open Belt"],
+  "suffix": ".bs.js",
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  }
+}

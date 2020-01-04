@@ -1,0 +1,15 @@
+{
+  "name": "safe-routing-blog-app-example--02-multiple-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "bsb -clean-world -make-world -w"
+  },
+  "devDependencies": {
+    "bs-platform": "7.0.1"
+  },
+  "dependencies": {
+    "reason-react": "0.7.0"
+  }
+}
