@@ -3,7 +3,7 @@
   "sources": [
     { "dir": "src", "subdirs": true }
   ],
-  "bs-dependencies": ["reason-react"],
+  "bs-dependencies": ["@rescript/react"],
   "refmt": 3,
   "reason": {
     "react-jsx": 3

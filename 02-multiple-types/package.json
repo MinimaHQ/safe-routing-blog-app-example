@@ -4,12 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "bsb -clean-world -make-world -w"
+    "start": "rescript build -w"
   },
-  "devDependencies": {
-    "bs-platform": "7.0.1"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "reason-react": "0.7.0"
+    "@rescript/react": "0.10.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rescript": "9.1.2"
   }
 }

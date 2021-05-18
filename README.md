@@ -1,3 +1,3 @@
-# ReasonML: Safe Routing
+# Safe Routing in ReScript
 
-Example apps for [ReasonML: Safe Routing](https://blog.minima.app/posts/2020/reasonml-safe-routing) blog post.
+Example apps for [Safe Routing in ReScript](https://alexfedoseev.com/blog/dev/2020/safe-routing-in-rescript) blog post.

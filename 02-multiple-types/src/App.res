@@ -1,11 +1,11 @@
-[@react.component]
+@react.component
 let make = () => {
-  let route = Router.useRouter();
+  let route = Router.useRouter()
 
-  switch (route) {
+  switch route {
   | Some(Main) => <Main />
   | Some(Posts) => <Posts />
   | Some(Post({slug})) => <Post slug />
   | None => <NotFound />
-  };
-};
+  }
+}
